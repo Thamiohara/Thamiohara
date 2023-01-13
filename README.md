@@ -33,7 +33,7 @@
   
    ![Snake animation](https://github.com/Thamiohara/Thamiohara/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+ </div>
  
  
   
