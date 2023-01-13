@@ -7,10 +7,21 @@
 - ⚡ Check more projects on my Portfolio : https://www.datascienceportfol.io/thamiresohara
 -->
 
-<div>
- <a href="https://www.datascienceportfol.io/thamiresohara">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thamiohara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<!--
+  <h2 align="center"> Github estadisticas 📈 </h2>
+  -->
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thamiohara&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thamiohara&theme=dracula&line_height=40&hide=css"/>
+    </a>
+</div
+  
+<br/>
+
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
